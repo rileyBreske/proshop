@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 import { Row, Col, Image, ListGroup, Card, Button, ListGroupItem } from 'react-bootstrap'
 import Rating from '../components/Rating'
+import Biography from '../components/Biography'
 import axios from 'axios'
 
 const ProductScreen = () => {
@@ -66,6 +67,7 @@ const ProductScreen = () => {
             </ListGroup>
           </Card>
         </Col>
+        <Biography />
       </Row>
     </>
   )
