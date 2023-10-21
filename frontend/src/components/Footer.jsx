@@ -9,7 +9,7 @@ const Footer = () => {
       <Container>
         <Row>
           <Col className='text-center py-3'>
-            <p>Mash Elite Performance &copy; {currentYear}</p>
+            <p>Mash Elite Performance &copy; {currentYear} | Not Wix</p>
           </Col>
         </Row>
       </Container>
