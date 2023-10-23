@@ -51,3 +51,25 @@ table th {
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
 }
+
+.social-media-link {
+  margin: 0 10px; /* Adjust the margin value as needed */
+  color: #43724a; /* Set the text color for the icons */
+  text-decoration: none; /* Remove the underline from the links */
+  font-size: 24px; /* Adjust the icon size as needed */
+}
+
+.social-media-link:hover {
+  color: #43724aa4; /* Change color on hover (optional) */
+}
+
+.product-image {
+  text-align: center; /* Center the image within the card */
+  height: 350px; /* Set a fixed height */
+}
+
+.product-image img {
+  max-width: 100%; /* Ensure the image does not exceed its container's width */
+  max-height: 100%; /* Ensure the image does not exceed its container's height */
+  object-fit: cover; /* Crop or scale the image to fit the container */
+}
