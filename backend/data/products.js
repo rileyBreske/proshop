@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'The Mash Blueprint',
     image: '/images/MashBlueprint.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Conjugate: Westside Inspired Weightlifting',
     image: '/images/Conjugate.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Strength PHD: Lenoir-Rhyne Edition',
     image: '/images/StrengthPHD.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'The Mash Files',
     image: '/images/MashFiles.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Squat Science',
     image: '/images/SquatScience.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Do What You Want',
     image: '/images/DoWhatYouWant.jpg',
     description:
@@ -78,7 +72,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '7',
     name: 'Squat Every Day',
     image: '/images/SquatEveryDay.jpg',
     description:
@@ -91,7 +84,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '8',
     name: 'Bar Speed',
     image: '/images/BarSpeed.png',
     description:
