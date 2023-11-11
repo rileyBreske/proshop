@@ -4,6 +4,7 @@ import { Row, Col, Image, ListGroup, Card, Button, ListGroupItem } from 'react-b
 import Rating from '../components/Rating'
 import Biography from '../components/Biography'
 import Loader from '../components/Loader'
+import Message from '../components/Message'
 import { useGetProductsDetailsQuery } from '../slices/productsApiSlice'
 
 const ProductScreen = () => {
